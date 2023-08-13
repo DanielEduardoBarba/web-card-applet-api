@@ -1,3 +1,7 @@
+
+service_account.json
+service_account.js
+
 # Logs
 logs
 *.log
